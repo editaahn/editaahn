@@ -1,5 +1,8 @@
 ### Hi! I'm Rita.
 
+[LinkedIn](https://www.linkedin.com/in/eikyoung-ahn-19a59915b) | [Blog](https://editaahn.github.io/)
+
+
 - I am a front-end developer.
   - 2021.3 ~ Class101
 - I was a product manager.
