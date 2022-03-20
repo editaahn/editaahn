@@ -1,6 +1,6 @@
 ### Hi! I'm Rita.
 
-[LinkedIn](https://www.linkedin.com/in/eikyoung-ahn-19a59915b) | [Blog](https://editaahn.github.io/)
+[LinkedIn](https://www.linkedin.com/in/eikyoung-ahn-19a59915b) | [Blog](https://rita-blog.vercel.app)
 
 
 - I am a front-end developer.
