@@ -15,6 +15,3 @@ I have consistently pursued learning and staying up-to-date with technologies by
 - [Resume](https://docs.google.com/document/d/1wBBsujR4mbauZWtwq8F2aKErlPQKvmse6LQCVRdIurI/edit?usp=sharing)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=editaahn&theme=nord&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
-
