@@ -1,10 +1,9 @@
 ## Hi! I'm Rita.
 
-I'm an experienced, results-driven IT professional with 2 years as a front-end developer and 4.5 years as a product manager, passionate about optimizing website performance and improving user experience.
-
-I have consistently pursued learning and staying up-to-date with technologies by sharing my insights through [blog postings](https://rita-blog.vercel.app/).
+I am an IT professional with three years of experience as a front-end developer and four and a half years as a product manager. My passion lies in optimizing website performance and enhancing user experience. Currently, I am delving into the world of cryptocurrency, eager to explore its possibilities.
 
 ### Work Experience
+  - 2023.10 ~ Keplr (front-end developer)
   - 2021.3 ~ 2023.4 Class101 (front-end developer)
   - 2018.12 ~ 2020.10 WoowaBros. (product manager)
   - 2016.6 ~ 2018.12 Emotion Global (product manager)
