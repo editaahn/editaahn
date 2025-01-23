@@ -1,6 +1,6 @@
 ## Hi! I'm Rita.
 
-I am an IT professional with three years of experience as a front-end developer and four and a half years as a product manager. My passion lies in optimizing website performance and enhancing user experience. Currently, I am delving into the world of cryptocurrency, eager to explore its possibilities.
+I am an IT professional with four years of experience as a front-end developer and four and a half years as a product manager. My passion lies in optimizing website performance and enhancing user experience. Currently, I am delving into the world of cryptocurrency, eager to explore its possibilities.
 
 ### Work Experience
   - 2023.10 ~ Keplr (front-end developer)
