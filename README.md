@@ -11,6 +11,3 @@ I am an IT professional with four years of experience as a front-end developer a
 ## You can reach me
 - email: editaahn@yahoo.com
 - [LinkedIn](https://www.linkedin.com/in/rita-ahn)
-- [Resume](https://docs.google.com/document/d/1wBBsujR4mbauZWtwq8F2aKErlPQKvmse6LQCVRdIurI/edit?usp=sharing)
-
-
